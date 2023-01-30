@@ -50,7 +50,11 @@ h2 {
   font-size: 1.5rem;
   margin: 70px 0;
   text-align: center;
-  color: rgba(0, 0, 0, 0.841);
+  color: rgba(0, 0, 0, 0.887);
+}
+
+#tribute-info {
+  display: block;
 }
 
 ul {
